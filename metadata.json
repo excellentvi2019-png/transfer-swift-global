@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "A powerful web application showcasing various Gemini API capabilities, including image editing and generation, low-latency chat, complex analysis, and location-aware exploration with Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
